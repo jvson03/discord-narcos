@@ -1,0 +1,30 @@
+{
+	"name": "discord-bot",
+	"version": "1.0.0",
+	"description": "Narcos - Discord bot built for RWRP",
+	"main": "redbot.js",
+	"scripts": {
+		"start": "node redbot.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/jvson03/redbot.git"
+	},
+	"author": "Jvson03",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/jvson03/redbot/issues"
+	},
+	"homepage": "https://github.com/jvson03/redbot#readme",
+	"dependencies": {
+		"@discordjs/builders": "^0.6.0",
+		"@discordjs/rest": "^0.1.0-canary.0",
+		"@sapphire/snowflake": "^2.1.4",
+		"discord-api-types": "^0.22.0",
+		"discord.js": "^13.1.0",
+		"dotenv": "^10.0.0",
+		"https": "^1.0.0",
+		"one-liner-joke": "^1.2.2",
+		"request": "^2.88.2"
+	}
+}
