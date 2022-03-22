@@ -1,6 +1,6 @@
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 
-# RedBot
+# Narcos Bot
 
-A discord bot made for Redwood Roleplay
+A discord bot made for Narcotic Roleplay
 
