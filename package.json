@@ -4,7 +4,8 @@
 	"description": "Narcos - Discord bot built for RWRP",
 	"main": "redbot.js",
 	"scripts": {
-		"start": "node redbot.js"
+		"start": "node redbot.js",
+		"test": "node test.js"
 	},
 	"repository": {
 		"type": "git",
